@@ -17,7 +17,8 @@ Entre mis hobbies pueda destacar que me gusta salir a trotar, me gusta leer arti
 
 Ire actualizando este Readme amedida que vaya aprendiendo mas y agregando mas proyectos en mi Github.
 
-## Si te gusto algun proyecto mio y deseas comunicarte: 
+### Si te gusto algun proyecto mio y deseas comunicarte para una oportunidad laboral o algun trabajo personalizado: 
 * 🌴 Twitter: https://twitter.com/bportillo701
 * 🌴 Portafolio: https://bryancloud.dev/
 * 🌴 Linkedin: www.linkedin.com/in/bryancloud
+* 🌴 Email: bportillo701@gmail.com
