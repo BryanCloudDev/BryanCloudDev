@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan Portillo:)</h1>
-<h3 align="center">Self-taught frontend developer from El Salvador who loves coding and creating projects with my friends.</h3>
+<h3 align="center">Self-taught full stack developer from El Salvador who loves coding and creating projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanclouddev&label=Profile%20views&color=0d7bbf&style=flat" alt="bryanclouddev" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [my portfolio](https://bryancloud.dev/)
 
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning **Express and React Native**
 
 - 👨‍💻 All of my projects are available at [https://bryancloud.dev/](https://bryancloud.dev/)
 
-- 💬 Ask me about **PHP and Laravel, I know a bit of them**
+- 💬 Ask me about **NodeJS, TypeScript and PHP**
 
 - 📫 How to reach me **bryanportillodev@gmail.com**
 
