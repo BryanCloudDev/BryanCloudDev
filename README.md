@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan Portillo!</h1>
-<h3 align="center">Software developer with extensive experience in designing software solutions and creating web and mobile applications. My focus is on delivering high-quality solutions that meet international standards and provide an exceptional user experience. As a person, I like to read about astronomy, I really enjoy cooking and practicing sports.</h3>
+<h3 align="center">Software developer with extensive experience in designing software solutions and creating web and mobile applications. My focus is on delivering high-quality solutions that meet international standards and provide an exceptional user experience. As a person, I enjoy reading about astronomy, cooking, and practicing sports.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanclouddev&label=Profile%20views&color=0e75b6&style=flat" alt="bryanclouddev" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://bryancloud.dev](https://bryancloud.dev)
 
-- 💬 Ask me about **PHP, TypeScript, NodeJS and Laravel 9**
+- 💬 Ask me about **PHP, TypeScript, NodeJS, and Laravel 9**
 
 - 📫 How to reach me **bryanportillodev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bryancloud](https://www.linkedin.com/in/bryancloud)
 
-- ⚡ Fun fact **My knee cracks**
+- ⚡ Fun fact **My left knee cracks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
