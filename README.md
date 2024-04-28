@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/bryanclouddev" target="blank"><img src="https://img.shields.io/twitter/follow/bryanclouddev?logo=twitter&style=for-the-badge" alt="bryanclouddev" /></a> </p>
 
-- 🔭 I’m currently working on **a recipe blog API and frontend app**
+- 🔭 I’m currently working on **a medical site to connect patients with doctors app**
 
-- 🌱 I’m currently learning **NodeJS, React Native and MySQL**
+- 🌱 I’m currently learning **NestJS, React and MySQL**
 
 - 👨‍💻 All of my projects are available at [https://bryancloud.dev](https://bryancloud.dev)
 
-- 💬 Ask me about **PHP, TypeScript, NodeJS, and Laravel 9**
+- 💬 Ask me about **PHP, TypeScript, NodeJS, and NestJS**
 
 - 📫 How to reach me **bryanportillodev@gmail.com**
 
