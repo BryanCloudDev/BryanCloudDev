@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bryancloud](https://www.linkedin.com/in/bryancloud)
 
-- ⚡ Fun fact **My left knee cracks**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bryanclouddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bryanclouddev" height="30" width="40" /></a>
